@@ -3,7 +3,7 @@ import ScoreCategory from '@/components/ScoreCategory';
 function Home() {
   return (
     <main className="flex justify-center items-center h-[100dvh] text-[18px]">
-      <div className="flex border-[1px] rounded-xl bg-white shadow-lg">
+      <div className="flex rounded-l-3xl rounded-xl bg-white shadow-lg">
         <div
           className="bg-gradient-to-t from-royal-blue to-slate-blue 
         rounded-3xl p-8 flex flex-col items-center gap-8
